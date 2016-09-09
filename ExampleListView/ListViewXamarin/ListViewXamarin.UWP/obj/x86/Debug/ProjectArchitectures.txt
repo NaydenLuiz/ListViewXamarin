@@ -1,0 +1,2 @@
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin.UWP\ListViewXamarin.UWP.csproj;x86
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\ListViewXamarin.csproj;neutral

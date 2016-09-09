@@ -1,0 +1,16 @@
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\ListViewXamarin.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\ListViewXamarin.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\ListViewXamarin.csprojResolveAssemblyReference.cache
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\ListViewXamarin.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\ListViewXamarin.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\ListViewXamarin.HomePage.xaml.g.cs
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\ListViewXamarin.dll.mdb
+C:\Users\nayden\Documents\LABTECH\LAB03\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\ListViewXamarin.dll.mdb
